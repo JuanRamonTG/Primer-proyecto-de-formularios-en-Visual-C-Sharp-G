@@ -34,7 +34,7 @@
             // 
             // btnclicaqui
             // 
-            this.btnclicaqui.Location = new System.Drawing.Point(257, 352);
+            this.btnclicaqui.Location = new System.Drawing.Point(234, 341);
             this.btnclicaqui.Name = "btnclicaqui";
             this.btnclicaqui.Size = new System.Drawing.Size(75, 25);
             this.btnclicaqui.TabIndex = 0;
